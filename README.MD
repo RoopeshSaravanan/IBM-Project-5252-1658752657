@@ -6,15 +6,15 @@ A Smart Application that recommend products based on user preferences.
 
 [Tasks](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/tasks)
 
-[Assignments]()
+[Assignments](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/assignments)
 
-[Project Code]()
+[Project Code](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/smart-fashion)
 
 ## Uploading Task
 
 To upload your task
 
-tasks > {Your Name} > {task file}
+<b><i>tasks > {Your Name} > {task file}</i></b>
 
 Task name format: taskNo taskName (Task No and name available in project schedule)
 
@@ -24,4 +24,4 @@ Example: 2.1 Literature Survey
 
 To upload your task
 
-assignments > {Your Name} > {assignment file}
+<b><i>assignments > {Your Name} > {assignment file}<i></b>
