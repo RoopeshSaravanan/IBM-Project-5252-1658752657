@@ -10,6 +10,15 @@ A Smart Application that recommend products based on user preferences.
 
 [Project Code](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/smart-fashion)
 
+## Batch
+
+B5-5M1E
+
+- Abhishek   [Tasks](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/tasks/abhishekar)    [Assignments](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/assignments/abhishekar)
+- Charan   [Tasks](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/tasks/charandp)    [Assignments](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/assignments/charandp)
+- Devendran   [Tasks](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/tasks/devendran)    [Assignments](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/assignments/devendran)
+- Harikrishnan   [Tasks](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/tasks/harikrishnan)    [Assignments](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/assignments/harikrishnan)
+
 ## Uploading Task
 
 To upload your task
